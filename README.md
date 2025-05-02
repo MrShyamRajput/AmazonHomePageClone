@@ -1,5 +1,7 @@
 # Amazon Clone - Home Page UI
 
+Live link: https://amazon-clone-shyam.vercel.app/
+
 A replica of the Amazon.com home page UI built using only HTML and CSS. This project demonstrates the use of modern web development techniques for creating visually appealing and responsive web pages.
 
 ---
